@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe align="center" src="https://giphy.com/embed/rsDpYA4jSUt1e" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dragon-ball-z-dbz-rsDpYA4jSUt1e">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/50901815/144616244-f7aabcbe-9903-4cc9-9e45-4966ef7395b4.gif)
 
 #### The name's Zul, and this is my page.
 
