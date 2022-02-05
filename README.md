@@ -6,7 +6,7 @@
 
 ![Frieza](https://user-images.githubusercontent.com/50901815/144617556-7bbf9c27-c549-4da5-824c-1348071b6183.gif)
 
-#### The name's Zul, and this is my page. I'm currently a Final Year Student doing my Final Year Project.
+#### Hello everyone I'm Zul and this is my page. I'm currently a Final Year Student doing my Final Year Project.
 
 
 <h3>What I'm currently learning</h2>
